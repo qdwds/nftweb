@@ -18,4 +18,4 @@
 ## 有问必答
 可以添加我答疑、咨询、交流
 
-<image src="./img/my.jpg" style="width:300px"></image>
+<image src="https://qdwds.github.io/nftdocs/img/my.jpg" style="width:300px"></image>
